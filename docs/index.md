@@ -1,4 +1,6 @@
-# Welcome to Ximira
-## Intelligent Accessibility for the Blind
+# Ximira Documentation Overview
 
-Placeholder content to test publication of documentation via GitHub pages.
+Welcome to the documentation for Ximira's iNtegrated Open Visual Assistant (NOVA). This site includes publicly accessible documentation for users and project contributors.
+
+## User Documentation
+
