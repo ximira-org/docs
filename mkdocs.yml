@@ -1,0 +1,48 @@
+site_name: Ximira Documentation
+site_url: https://ximira-org.github.io/docs
+repo_url: https://github.com/ximira-org/
+nav:
+  - Home: index.md
+  - Hardware: hardware/index.md
+  - Ximira Homepage: https://www.ximira.org/
+theme:
+  name: material
+  logo: images/ximira-logo.svg
+  favicon: images/favicon.ico
+  features:
+    - content.action.edit
+    - content.action.view
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.instant
+    - navigation.tracking
+    - toc.follow
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+plugins:
+  - search
+  - git-committers:
+      repository: ximira-org/docs
+      branch: main
+
+# extra:
+#   consent:
+#     title: Cookie consent
+#     description: >- 
+#       We use cookies to recognize your repeated visits and preferences, as well
+#       as to measure the effectiveness of our documentation and whether users
+#       find what they're searching for. With your consent, you're helping us to
+#       make our documentation better.
+extra_css:
+  - stylesheets/extra.css
