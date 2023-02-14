@@ -30,12 +30,12 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-plugins:
-  - search
-  - git-committers:
-      repository: ximira-org/docs
-      branch: main
 
+# plugins:
+#   - search
+#   - git-committers:
+#       repository: ximira-org/docs
+#       branch: main
 # extra:
 #   consent:
 #     title: Cookie consent
