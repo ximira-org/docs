@@ -2,6 +2,8 @@ nav:
   - Overview: index.md
   - User Guide:
     - Introduction: userguide/index.md
+  - System Requirements:
+    - Introduction: requirements/index.md
   - Hardware:
     - Hardware Overview: hardware/index.md
     - Compute Unit: hardware/nova-cu-v1.md
@@ -18,7 +20,7 @@ nav:
 
 site_name: Ximira Documentation
 site_url: https://ximira-org.github.io/docs
-repo_url: https://github.com/ximira-org/
+repo_url: https://github.com/ximira-org/docs/
 extra_css:
   - _assets/extra.css
 theme:
