@@ -4,13 +4,20 @@ nav:
     - Introduction: userguide/index.md
   - System Requirements:
     - Introduction: requirements/index.md
+    - User Requirements: requirements/user/index.md
+    - Functional Requirements: requirements/functional/index.md
   - Hardware:
     - Hardware Overview: hardware/index.md
     - Compute Unit: hardware/nova-cu-v1.md
+    - Perception Unit: hardware/nova-pu-v1.md
     - Haptic Band: hardware/nova-band-v1.md
-    - Shoulder Pack: hardware/nova-pack-v1.md
+    - Haptic Glove: hardware/nova-glove-v1.md
+    - Wearable Sling: hardware/nova-sling-v1.md
   - Software:
     - Software Overview: software/index.md
+    - Architecture: software/architecture/index.md
+    - Development Environment: software/dev-env.md
+    - NOVA Installation Guide: software/installation.md
   - Contribute:
     - How to Contribute: contribute/index.md
 
