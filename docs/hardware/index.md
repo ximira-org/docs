@@ -1,9 +1,5 @@
 # NOVA Hardware Overview
 
----
-version: 23.3-0
----
-
 NOVA is intended to be open and extensible. However, the Ximira team designs and maintains hardware specifications for our reference implementations. This section is intended to document these designs.
 
 ## Core Components

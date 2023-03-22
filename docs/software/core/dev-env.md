@@ -1,8 +1,4 @@
-# NOVA Development Environment
-
----
-version: 23.3-0
----
+# NOVA Core Development Environment
 
 ```
 INCOMPLETE: STILL A WORK IN PROGRESS

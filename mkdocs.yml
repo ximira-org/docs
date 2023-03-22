@@ -2,24 +2,35 @@ nav:
   - Overview: index.md
   - User Guide:
     - Introduction: userguide/index.md
-  - System Requirements:
+  - Requirements:
     - Introduction: requirements/index.md
     - User Requirements: requirements/user/index.md
     - Functional Requirements: requirements/functional/index.md
   - Hardware:
     - Hardware Overview: hardware/index.md
-    - Compute Unit: hardware/nova-cu-v1.md
-    - Perception Unit: hardware/nova-pu-v1.md
+    - Compute Unit (CU): hardware/nova-cu-v1.md
+    - Perception Unit (PU): hardware/nova-pu-v1.md
     - Haptic Band: hardware/nova-band-v1.md
     - Haptic Glove: hardware/nova-glove-v1.md
     - Wearable Sling: hardware/nova-sling-v1.md
   - Software:
     - Software Overview: software/index.md
     - Architecture: software/architecture/index.md
-    - Development Environment: software/dev-env.md
-    - NOVA Installation Guide: software/installation.md
+    - Core Software Components:
+      - Core Software Components Overview: software/core/index.md
+      - Development Environment: software/core/dev-env.md
+    - Embedded System Components:
+      - Embedded System Components Overview: /software/embedded/index.md
+    - Mobile System Components:
+      - Mobile System Components Overview: /software/mobile/index.md
+    - Website Development:
+      - Website Development Overview: /software/web/index.md
+    - NOVA CU Installation Guide: software/installation.md
   - Contribute:
     - How to Contribute: contribute/index.md
+    - Hardware and Software Roadmap: contribute/roadmap.md
+    - Style Guide: contribute/style-guide.md
+    - Version Management: contribute/versions.md
 
   - Ximira Homepage: https://www.ximira.org/
 
