@@ -8,13 +8,13 @@ For all *software* releases, including all documentation referencing the require
 
 Scheme      |   Description
 ---         |   ---
-YY.M        |   Major Release
-YY.M-A      |   Revision
-YY.M-A.B    |   Minor Revision or Patch
+YY.MM       |   Major Release
+YY.MM-A     |   Revision
+YY.MM-A.B   |   Minor Revision or Patch
 
-`YY` will represent the year of the release. `M` will represent the approximate month of the release. `A` will be a sequential number beginning with `0` and `B` will be a sequential number beginning with `1`. `YY.M` is assumed to be short for `YY.M-0`, meaning that minor revisions or patches made to a Major Release will be of the form `YY.M-0.B`. For example, the first minor patch to version `23.10` will be version `23.10-0.1`.
+`YY` will represent the year of the release. `MM` will represent the approximate month of the release. `A` will be a sequential number beginning with `0` and `B` will be a sequential number beginning with `1`. `YY.MM` is assumed to be short for `YY.MM-0`, meaning that minor revisions or patches made to a Major Release will be of the form `YY.MM-0.B`. For example, the first minor patch to version `23.10` will be version `23.10-0.1`.
 
-Ximira will target a `10-4` release cadence, meaning a Fall `10` release around October and a Spring `4` release around April.
+Ximira will target a `10-4` release cadence, meaning a Fall `10` release around October and a Spring `04` release around April.
 
 Revisions and patches will be released as needed to improve performance, fix bugs, and patch security vulnerabilities. Unless it is otherwise unavoidable due to a major functional flaw or security issue, no breaking changes should be introduced with revisions.
 
