@@ -4,3 +4,6 @@ Welcome to the documentation for Ximira's iNtegrated Open Visual Assistant (NOVA
 
 ## User Documentation
 
+
+## Contributor Documentation
+

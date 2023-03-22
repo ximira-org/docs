@@ -1,4 +1,8 @@
-# NOVA Compute Unit (CU) Version 1
+# NOVA Compute Unit (CU)
+
+---
+version: v1-23.3
+---
 
 A NOVA system is managed via a central Compute Unit (CU). This is essentially a compact, portable personal computer -- a laptop without a screen. All sensors adn peripheral devices connect to the CU either using USB-C cables or wirelessly via bluetooth.
 
