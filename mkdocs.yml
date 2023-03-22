@@ -17,14 +17,14 @@ nav:
     - Software Overview: software/index.md
     - Architecture: software/architecture/index.md
     - Core Software Components:
-      - Core Software Components Overview: software/core/index.md
+      - Overview: software/core/index.md
       - Development Environment: software/core/dev-env.md
     - Embedded System Components:
-      - Embedded System Components Overview: /software/embedded/index.md
+      - Overview: /software/embedded/index.md
     - Mobile System Components:
-      - Mobile System Components Overview: /software/mobile/index.md
+      - Overview: /software/mobile/index.md
     - Website Development:
-      - Website Development Overview: /software/web/index.md
+      - Overview: /software/web/index.md
     - NOVA CU Installation Guide: software/installation.md
   - Contribute:
     - How to Contribute: contribute/index.md
